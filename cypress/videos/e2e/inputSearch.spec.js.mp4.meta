@@ -1,0 +1,31 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=8199
+END=8279
+title=Input search test verify if the conditions is true
+[CHAPTER]
+TIMEBASE=1/1000
+START=8313
+END=8365
+title=Input search test verify if the conditions is false
+[CHAPTER]
+TIMEBASE=1/1000
+START=939
+END=8421
+title=Input search test visit cypress website
+[CHAPTER]
+TIMEBASE=1/1000
+START=10987
+END=15909
+title=Input search test find the content types
+[CHAPTER]
+TIMEBASE=1/1000
+START=10017
+END=20844
+title=Input search test should input search
+[CHAPTER]
+TIMEBASE=1/1000
+START=23360
+END=31680
+title=Input search test Another option to get input search
