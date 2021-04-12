@@ -8,6 +8,6 @@ describe('shold another page when run redirect event', () => {
     })
 
     it('successfully loads the seending data page', () => {
-        cy.visit('https://docs.cypress.io/guides/getting-started/testing-your-app#Seeding-data')
+        cy.visit('/guides/getting-started/testing-your-app#Seeding-data')
     })
 });
